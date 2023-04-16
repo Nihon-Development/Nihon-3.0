@@ -1,0 +1,37 @@
+{
+   "Id":"Spanish",
+   "Data":[
+      {
+         "Id":"ExecuteButton",
+         "Content":"Ejecutar"
+      },
+      {
+         "Id":"ClearButton",
+         "Content":"Limpiar"
+      },
+      {
+         "Id":"OpenFileButton",
+         "Content":"Abrir"
+      },
+      {
+         "Id":"SaveFileButton",
+         "Content":"Guardar"
+      },
+      {
+         "Id":"AttachButton",
+         "Content":"Inyectar"
+      },
+      {
+         "Id":"AdvertiseButton",
+         "Content":"SomosDevs"
+      },
+      {
+         "Id":"CloseButton",
+         "Content":"Cerrar",
+      },
+      {
+         "Id":"MinimizeButton",
+         "Content":"Minimizar"
+      }
+   ]
+}
