@@ -1,15 +1,15 @@
 {
 	"Module": {
 		"IsPatched": false,
-		"Version": "N/A",
-		"Hash": "N/A"
+		"Version": "version-31b938635c234124",
+		"Hash": "8191182e48af0ef988fefac3664c8ec88d50359283d09e02760433b309f320d30b0cb846396d6bcca46be36f144d88e2226a742bcc937bd64dbae7f66fa55ed5"
 	},
 	"Interface": {
 		"Version": "1.4.7a",
 		"IsEnabled": true,
-		"Hash": "N/A"
+		"Hash": "463dc6905e2445df1667047509f5865d38845f577f67096bc16b8214d044dd60e9f7a0fcadfc514e4ecde03c636f5abc75d7668c16f187f750023a15bf43e879"
 	},
 
 	"Invite": "VNZ5ekXKh5",
-	"Time": "Saturday, April 15, 2023"
+	"Time": "Sunday, April 30th, 2023"
 }
