@@ -1,6 +1,5 @@
 {
-   "Module":[
-      {
+   "Module":{
          "x86":{
             "IsPatched":true,
             "Version":"version-e28adbc917f34900",
@@ -11,8 +10,7 @@
             "Version":"2.581.563.0",
             "Hash":"N/A"
          }
-      }
-   ],
+   },
    "Interface":{
       "Version":"1.5.0",
       "IsEnabled":true,
