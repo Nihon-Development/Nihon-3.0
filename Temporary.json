@@ -3,20 +3,20 @@
          "x64":{
             "IsPatched":true,
             "Version":"version-e28adbc917f34900",
-            "Hash":"3b51ff4f22a1bfc34404b560d92bb3693c210c70f1f80b158427bf50b2a5af8daf4d285ab9c00ddfd7ebcd888f27545b",
-            "Link": "N/A"
+            "Hash":"",
+            "Link": ""
          },
          "x86":{
             "IsPatched":false,
             "Version":"2.581.563.0",
-            "Hash":"N/A",
-            "Link": "N/A"
+            "Hash":"",
+            "Link": ""
          }
    },
    "Interface":{
       "Version":"1.5.0",
       "IsEnabled":true,
-      "Hash":"463dc6905e2445df1667047509f5865d38845f577f67096bc16b8214d044dd60e9f7a0fcadfc514e4ecde03c636f5abc75d7668c16f187f750023a15bf43e879"
+      "Hash":""
    },
    "Invite":"VNZ5ekXKh5",
    "Time":"Saturday, June 10th, 2023"
