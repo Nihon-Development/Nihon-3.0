@@ -1,11 +1,11 @@
 {
    "Module":{
-         "x86":{
+         "x64":{
             "IsPatched":true,
             "Version":"version-e28adbc917f34900",
             "Hash":"3b51ff4f22a1bfc34404b560d92bb3693c210c70f1f80b158427bf50b2a5af8daf4d285ab9c00ddfd7ebcd888f27545b"
          },
-         "x64":{
+         "x86":{
             "IsPatched":true,
             "Version":"2.581.563.0",
             "Hash":"N/A"
