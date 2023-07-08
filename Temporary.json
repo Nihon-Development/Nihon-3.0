@@ -9,14 +9,14 @@
          "x86":{
             "IsPatched":false,
             "Version":"2.581.563.0",
-            "Hash":"",
+            "Hash":"aaffa98b45e900de0fd2f75e52be8c05ef13a59bd4ca3a3fcbe77d054ecc32a14e7aa2c4e6cd629e3fb6d0d786745533",
             "Link": ""
          }
    },
    "Interface":{
       "Version":"1.5.0",
       "IsEnabled":true,
-      "Hash":""
+      "Hash":"822845f768056f492eb03161eb2c184436b7936d3d4cf0ced782ff9ef8c20ae488573aab8daaa04d0a7ed957af45ba4c"
    },
    "Invite":"VNZ5ekXKh5",
    "Time":"Saturday, June 10th, 2023"
