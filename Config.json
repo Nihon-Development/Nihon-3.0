@@ -1,15 +1,23 @@
 {
-	"Module": {
-		"IsPatched": false,
-		"Version": "version-31b938635c234124",
-		"Hash": "8191182e48af0ef988fefac3664c8ec88d50359283d09e02760433b309f320d30b0cb846396d6bcca46be36f144d88e2226a742bcc937bd64dbae7f66fa55ed5"
-	},
-	"Interface": {
-		"Version": "1.5.0",
-		"IsEnabled": true,
-		"Hash": "463dc6905e2445df1667047509f5865d38845f577f67096bc16b8214d044dd60e9f7a0fcadfc514e4ecde03c636f5abc75d7668c16f187f750023a15bf43e879"
-	},
-
-	"Invite": "VNZ5ekXKh5",
-	"Time": "Saturday, June 10th, 2023"
+   "Module":{
+         "x64":{
+            "IsPatched":true,
+            "Version":"version-e28adbc917f34900",
+            "Hash":"",
+            "Link": ""
+         },
+         "x86":{
+            "IsPatched":false,
+            "Version":"2.582.400.0",
+            "Hash":"aaffa98b45e900de0fd2f75e52be8c05ef13a59bd4ca3a3fcbe77d054ecc32a14e7aa2c4e6cd629e3fb6d0d786745533",
+            "Link": ""
+         }
+   },
+   "Interface":{
+      "Version":"1.5.1",
+      "IsEnabled":true,
+      "Hash":"822845f768056f492eb03161eb2c184436b7936d3d4cf0ced782ff9ef8c20ae488573aab8daaa04d0a7ed957af45ba4c"
+   },
+   "Invite":"VNZ5ekXKh5",
+   "Time":"Thursday, July 13th, 2023"
 }
