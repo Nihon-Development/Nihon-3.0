@@ -8,7 +8,7 @@
          },
          "x86":{
             "IsPatched":true,
-            "Version":"2.586.0.0",
+            "Version":"2.588.516.0",
             "Hash":"8103993a828b58c893dd77e67dd5fe36c524af3420106870e96a6ac026759cc0288e253cb17d6a40923044fada442689",
             "Link": "https://cdn.discordapp.com/attachments/1066452941294293044/1130307752258977882/Nihon-Module.dll"
          }
