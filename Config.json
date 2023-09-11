@@ -7,10 +7,10 @@
             "Link": ""
          },
          "x86":{
-            "IsPatched":true,
-            "Version":"2.588.516.0",
+            "IsPatched":false,
+            "Version":"2.592.586.0",
             "Hash":"8103993a828b58c893dd77e67dd5fe36c524af3420106870e96a6ac026759cc0288e253cb17d6a40923044fada442689",
-            "Link":"https://cdn.discordapp.com/attachments/1066452941294293044/1138622062408249344/Nihon-Module.dll"
+            "Link":"https://cdn.discordapp.com/attachments/1073135533204709457/1150942614674219049/Nihon-Module.dll"
          }
    },
    "Interface":{
@@ -19,5 +19,5 @@
       "Hash":"526aa219cf01fc8ee145547000339342a3a44b14ee13fd6a5e1113d34deaac16e696ab1b746c4fc5db174d38d6c5c737"
    },
    "Invite":"3Syz24X2UD",
-   "Time":"Thursday, July 13th, 2023"
+   "Time":"Monday, September 11th, 2023"
 }
